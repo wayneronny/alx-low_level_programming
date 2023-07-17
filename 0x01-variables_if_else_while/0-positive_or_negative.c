@@ -3,8 +3,8 @@
 #include <stdio.h>
 
 /*
- * main - states whether it is positive, negative, or zero.
- * Return: Always 0.
+ * main - Determine if a random number is positive, negative or zero.
+ * Return: Always 0 (success)
  */
 int main(void)
 {
